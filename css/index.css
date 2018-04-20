@@ -1,0 +1,78 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-07 16:34:50
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-14 21:18:59
+*/
+.computer{
+	margin: 0 auto;
+	width: 500px;
+	height: 700px;
+	background: #D66FF2;
+}
+.head{
+	width: 500px;
+	height: 56px;
+	background: #D66FF2;
+	line-height: 56px;
+	text-align: left;
+	font-family: 楷体;
+	font-size:25px;
+	color: white;
+}
+.window{
+	width: 100%;
+	height: 259px;
+	background: #EA98E8;
+}
+.xiala{
+	width: 100%;
+	height: 47px;
+	background:#dfe3e4;
+}
+.keyboard{
+	width: 100%;
+	height: 338px;
+	background: pink;
+}
+.button{
+    float: left;
+	width: 123px;
+	height:65.2px;
+	background: #6FF2F2;
+	margin-right: 2px;
+	margin-bottom: 3px;
+	font-size: 45px;
+	font-family: 宋体;
+	color: black;
+	text-align: center;
+	line-height: 65.2px;
+}
+.button1{
+	margin-right: 0px;
+}
+.button2{
+	width: 124px;
+}
+.head_left{
+	float: left;
+	margin-left:23px ;
+}
+.head_right{
+	float: right;
+	margin-right: 30px;
+	margin-top: 15px;
+}
+.circle{
+	width: 7px;
+	height: 7px;
+	background: white;
+	border-radius: 50%;
+	margin-bottom: 2px;
+}
+.circle2{
+	margin-bottom: 0;
+}
+.xiala1{
+	margin-left: 235px;
+}
